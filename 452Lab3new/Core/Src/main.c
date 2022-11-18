@@ -251,7 +251,7 @@ int main(void)
 	 			  HAL_UART_Transmit(&huart2, cliBufferTX, strlen((char *)cliBufferTX), 1000);
 	 		  }
 
-	 	  //showPrompt();
+	 	 
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
