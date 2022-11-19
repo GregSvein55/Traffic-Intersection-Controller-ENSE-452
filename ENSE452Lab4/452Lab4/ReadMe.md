@@ -1,4 +1,4 @@
-CLI V2 Gregory Sveinbjornson Oct. 21, 2022
+## Lab 4: Timing Tests w/CLI
 
 Description
 
