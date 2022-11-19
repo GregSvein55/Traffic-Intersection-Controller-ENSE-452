@@ -1,0 +1,2 @@
+../Core/Src/timer.c:4:10:startTimer	4	static
+../Core/Src/timer.c:9:10:stopTimer	24	static
