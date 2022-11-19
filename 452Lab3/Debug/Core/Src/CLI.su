@@ -1,4 +1,0 @@
-../Core/Src/CLI.c:4:6:isCompleteLine	16	static
-../Core/Src/CLI.c:17:6:copyCharTo	24	static
-../Core/Src/CLI.c:33:6:executeCommand	24	static
-../Core/Src/CLI.c:98:6:printString	32	static
