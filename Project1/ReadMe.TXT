@@ -68,6 +68,7 @@ In my video the turning and green lights are hard to differentiate, the turning 
 furthest away from the red lights.
 The primary walk lights are only behing the primary set of lights because I ran out of room on 
 my breadboard.
-The mode cannont switch until a state switch happens on the lights, not a huge issue, just have to
-wait a few seconds.
+The mode cannont switch until a state switch happens on the lights, this becomes a bigger issue when we
+are waiting for the long green lights, so if the mode isn't changing while marking, it is because of this and
+you will have to wait until the next light state switch.
 
