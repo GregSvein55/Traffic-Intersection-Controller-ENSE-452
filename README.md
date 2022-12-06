@@ -7,3 +7,4 @@
 ## Assignment 2: Complex Number Calculator
 ## Assignment 3: UML Diagrams for the Project
 ## Assignment 4: Implementation of a Queue in C++
+## Project: Traffic Intersection Controller
