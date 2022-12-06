@@ -400,7 +400,6 @@ void StartStateController(void *argument)
 					if(cmd == 101)//Failsafe mode
 					{
 						state = 'x';
-						acceleration = 1;
 					}
 					else if(cmd == 102)//static cycle mode
 					{
@@ -415,7 +414,6 @@ void StartStateController(void *argument)
 					else if(cmd == 106)//Fixed Cycle Mode
 					{
 						state = 'a';
-						acceleration = 1;
 
 					}
 					else if(cmd == 107)//pri ped
