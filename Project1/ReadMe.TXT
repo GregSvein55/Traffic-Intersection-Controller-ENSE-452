@@ -6,7 +6,7 @@ Description
 
 This project is a intersection controller, running on the STM32F103RB microcontroller using
 FreeRTOS. The microcontroller is connected to a sample intersection using a breadboard and small 
-LEDs. The link to my demo video is here-------------------, I'm not sure if we have to demo in class 
+LEDs. The link to my demo video is here https://youtu.be/PFta1p5ewJ8, I'm not sure if we have to demo in class 
 so I just took this video quickly. 
 
 When booted, a welcome message is printed out on the command line and stays on the screen for a 
